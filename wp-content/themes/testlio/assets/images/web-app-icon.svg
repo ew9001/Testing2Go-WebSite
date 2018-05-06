@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>web-app-icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="web-app-icon">
+            <path d="M0,3.00925446 C0,1.34728911 1.33425951,0 2.99610022,0 L29.0038998,0 C30.6586002,0 32,1.34967041 32,3.00925446 L32,7 L0,7 L0,3.00925446 Z" id="Rectangle-28" fill="#6772E5"></path>
+            <circle id="Oval-14" fill="#FFFFFF" cx="3.5" cy="3.5" r="1.5"></circle>
+            <circle id="Oval-14-Copy" fill="#FFFFFF" cx="7.5" cy="3.5" r="1.5"></circle>
+            <circle id="Oval-14-Copy-2" fill="#FFFFFF" cx="11.5" cy="3.5" r="1.5"></circle>
+            <path d="M0,9 L32,9 L32,28.9931517 C32,30.6537881 30.6657405,32 29.0038998,32 L2.99610022,32 C1.34139976,32 0,30.6640085 0,28.9931517 L0,9 Z" id="Rectangle-29" fill="#7DBCFC"></path>
+            <polyline id="Stroke-7" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" points="19 19 15 23 13 21"></polyline>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="32px" viewBox="0 0 26 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>localization-testing-icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="localization-testing-icon">
+            <g id="Group-62">
+                <g id="Group" fill="#7DBCFC">
+                    <g id="Page-1">
+                        <g id="Group-3">
+                            <path d="M11.3248881,31.324 C11.9570456,32.2253333 13.3769794,32.2253333 14.0091369,31.324 C14.0091369,31.324 23.5122493,17.8833333 23.8373194,17.3193333 C24.7917804,15.6593333 25.3333333,13.7746667 25.3333333,11.7713333 C25.3333333,5.27 19.6625896,0 12.6666667,0 C5.67143533,0 0,5.27 0,11.7713333 C0,13.7746667 0.542244549,15.6593333 1.49186415,17.31 L11.3248881,31.324 Z" id="Fill-1"></path>
+                        </g>
+                    </g>
+                </g>
+                <g id="Group" transform="translate(4.666667, 4.000000)">
+                    <path d="M0,8 C0,3.582 3.582,0 8,0 C12.418,0 16,3.582 16,8 C16,12.418 12.418,16 8,16 C3.582,16 0,12.418 0,8" id="Fill-5" fill="#6772E5"></path>
+                    <polyline id="Stroke-7" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" points="11 6 7 10 5 8"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

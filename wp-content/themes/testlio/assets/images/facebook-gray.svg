@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="37px" height="37px" viewBox="0 0 37 37" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>facebook-gray</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="18.5" cy="18.5" r="18.5"></circle>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="37" height="37" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="Blog" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Overlay---Blog---Post-Footer" transform="translate(-939.000000, -17.000000)">
+            <g id="Group-3" transform="translate(939.000000, 17.000000)">
+                <g id="facebook-gray">
+                    <use id="Oval-5" stroke="#A5B8C4" mask="url(#mask-2)" stroke-width="2" opacity="0.302423007" xlink:href="#path-1"></use>
+                    <path d="M19.9981282,25.8242934 L19.9981282,19.0598123 L22.2682222,19.0598123 L22.6084078,16.4233636 L19.9981282,16.4233636 L19.9981282,14.7420555 C19.9981282,13.9766345 20.2074747,13.4598137 21.3065392,13.4598137 L22.6999998,13.4598137 L22.6999998,11.10467 C22.4579419,11.0719586 21.6271045,11 20.6654215,11 C18.6504635,11 17.2766363,12.2299036 17.2766363,14.4803707 L17.2766363,16.4233636 L15,16.4233636 L15,19.0598123 L17.2766363,19.0598123 L17.2766363,25.8242934 L19.9981282,25.8242934 Z" id="Fill-3" fill="#A5B8C4"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

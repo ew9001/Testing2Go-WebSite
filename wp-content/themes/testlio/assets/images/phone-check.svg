@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>phone-check</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="phone-check">
+            <path d="M34.5,43 L34,42.5 L34,9.5 C34,8.122 32.879,7 31.5,7 L13.5,7 L13,6.5 L13,3.5 C13,1.57 14.57,0 16.5,0 L39.5,0 C41.43,0 43,1.57 43,3.5 L43,39.5 C43,41.43 41.43,43 39.5,43 L34.5,43 Z" id="Fill-1" fill="#6772E5"></path>
+            <path d="M32,6 L9,6 C7.34,6 6,7.34 6,9 L6,45 C6,46.66 7.34,48 9,48 L32,48 C33.66,48 35,46.66 35,45 L35,9 C35,7.34 33.66,6 32,6 L32,6 Z" id="Path" fill="#87BBFD"></path>
+            <path d="M22.82,42 C22.42,43.17 21.31,44 20,44 C18.69,44 17.58,43.17 17.18,42 C17.06,41.69 17,41.35 17,41 C17,39.34 18.34,38 20,38 C21.66,38 23,39.34 23,41 C23,41.35 22.94,41.69 22.82,42 L22.82,42 Z" id="Path" fill="#2647A2"></path>
+            <polygon id="Path" fill="#2647A2" points="19.46 31.29 14 27.31 13.2 26.73 14 25.63 14.88 24.43 18.89 27.36 25.74 18.48 28 20.22"></polygon>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="237px" height="310px" viewBox="0 0 237 310" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>overlay-about-hiring</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="237" height="310" rx="3"></rect>
+        <circle id="path-3" cx="24" cy="24" r="24"></circle>
+    </defs>
+    <g id="About" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="overlay-about-hiring">
+            <g id="Bitmap">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" fill="#837BF2" xlink:href="#path-1"></use>
+                <g id="Circles" opacity="0.101902174" mask="url(#mask-2)" stroke="#FFFFFF" stroke-width="2">
+                    <g transform="translate(115.340936, 146.188984) rotate(-127.000000) translate(-115.340936, -146.188984) translate(-95.659064, -64.811016)" id="Circle">
+                        <path d="M210,299 C258.601058,299 298,259.601058 298,211 C298,162.398942 258.601058,123 210,123 C161.398942,123 122,162.398942 122,211" opacity="0.5" transform="translate(210.000000, 211.000000) rotate(-330.000000) translate(-210.000000, -211.000000) "></path>
+                        <path d="M126,294.99926 C172.896586,341.666913 248.930975,341.666913 295.827561,294.99926 C342.724146,248.331607 342.724146,172.668393 295.827561,126.00074 C248.930975,79.3330868 172.896586,79.3330868 126,126.00074" opacity="0.300000012"></path>
+                        <path d="M147.72364,174.282073 C127.70666,208.625377 139.585626,252.539989 174.256052,272.368104 C208.926478,292.19622 253.25938,280.429335 273.27636,246.086031 C293.29334,211.742728 281.414374,167.828116 246.743948,148" opacity="0.5"></path>
+                        <circle opacity="0.5" cx="211" cy="212" r="56"></circle>
+                        <circle opacity="0.200000018" transform="translate(211.000000, 211.000000) rotate(-240.000000) translate(-211.000000, -211.000000) " cx="211" cy="211" r="154"></circle>
+                        <circle opacity="0.299999982" transform="translate(210.500000, 210.500000) rotate(-15.000000) translate(-210.500000, -210.500000) " cx="210.5" cy="210.5" r="136.5"></circle>
+                        <path d="M301.917486,262.949835 C330.907595,213.228932 313.703577,149.651061 263.491235,120.944685 C213.278894,92.2383087 149.072622,109.273948 120.082514,158.99485 C91.0924048,208.715753 108.296423,272.293624 158.508765,301" opacity="0.400000006"></path>
+                    </g>
+                </g>
+                <g id="Group-59" mask="url(#mask-2)">
+                    <g transform="translate(17.000000, 120.000000)" id="Group-58">
+                        <g transform="translate(74.000000, 0.000000)">
+                            <path d="M20.1448195,20.4352433 L55.0227318,55.3131557" id="Path-9" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round"></path>
+                            <g id="Oval-5">
+                                <use fill="#837BF2" fill-rule="evenodd" xlink:href="#path-3"></use>
+                                <circle stroke="#FFFFFF" stroke-width="1.5" cx="24" cy="24" r="23.25"></circle>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

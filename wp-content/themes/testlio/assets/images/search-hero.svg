@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="373px" viewBox="0 0 1440 373" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Hero</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="83.0091688%" y1="131.610107%" x2="-7.63861762%" y2="-29.1444473%" id="linearGradient-1">
+            <stop stop-color="#0FAFF0" offset="0%"></stop>
+            <stop stop-color="#837BF2" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="0" y="0" width="1440" height="373"></rect>
+        <circle id="path-4" cx="100" cy="100" r="100"></circle>
+        <mask id="mask-5" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="200" height="200" fill="white">
+            <use xlink:href="#path-4"></use>
+        </mask>
+    </defs>
+    <g id="Blog" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Blog---Results">
+            <g id="Hero">
+                <mask id="mask-3" fill="white">
+                    <use xlink:href="#path-2"></use>
+                </mask>
+                <use id="Mask" fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                <g id="Circles" opacity="0.166666667" mask="url(#mask-3)" stroke="#FFFFFF" stroke-width="2">
+                    <g transform="translate(1054.582287, 209.111819) rotate(-404.000000) translate(-1054.582287, -209.111819) translate(585.582287, -259.888181)" id="Circle">
+                        <path d="M466.610862,663.575019 C574.778315,663.575019 662.465361,575.887972 662.465361,467.720519 C662.465361,359.553066 574.778315,271.866019 466.610862,271.866019 C358.443408,271.866019 270.756362,359.553066 270.756362,467.720519" opacity="0.5" transform="translate(466.610862, 467.720519) rotate(-330.000000) translate(-466.610862, -467.720519) "></path>
+                        <path d="M280.743277,656.590423 C384.821548,760.593967 553.565765,760.593967 657.644035,656.590423 C761.722306,552.586879 761.722306,383.963817 657.644035,279.960272 C553.565765,175.956728 384.821548,175.956728 280.743277,279.960272" opacity="0.300000012"></path>
+                        <path d="M328.954866,388.331664 C284.530893,465.119049 310.894053,563.306698 387.83863,607.639915 C464.783207,651.973133 563.171857,625.663832 607.595829,548.876446 C652.019802,472.089061 625.656643,373.901412 548.712065,329.568195" opacity="0.5"></path>
+                        <ellipse opacity="0.5" cx="468.830176" cy="469.939833" rx="123.72678" ry="123.72678"></ellipse>
+                        <ellipse opacity="0.200000018" transform="translate(469.385005, 469.385005) rotate(-240.000000) translate(-469.385005, -469.385005) " cx="469.385005" cy="469.385005" rx="342.884082" ry="342.884082"></ellipse>
+                        <ellipse opacity="0.299999982" transform="translate(469.385005, 469.385005) rotate(-15.000000) translate(-469.385005, -469.385005) " cx="469.385005" cy="469.385005" rx="304.046079" ry="304.046079"></ellipse>
+                        <path d="M671.159496,587.136425 C735.497663,475.652518 697.316536,333.098598 585.879561,268.733334 C474.442587,204.36807 331.948681,242.565278 267.610514,354.049185 C203.272347,465.533093 241.453474,608.087012 352.890448,672.452276" opacity="0.400000006"></path>
+                    </g>
+                </g>
+                <g id="Icon-/-16px-/-Search-/-Gray" mask="url(#mask-3)" stroke="#47C1FB">
+                    <g transform="translate(955.000000, 110.000000)">
+                        <path d="M169,169 L230,230" id="Path-2" stroke-width="8" stroke-linecap="round"></path>
+                        <use id="Oval" mask="url(#mask-5)" stroke-width="16" xlink:href="#path-4"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

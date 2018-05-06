@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Search Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="9.75" cy="9.75" r="9.75"></circle>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="19.5" height="19.5" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="Blog" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Blog---Category" transform="translate(-1186.000000, -599.000000)" stroke="#A5B8C4">
+            <g id="Icon-/-16px-/-Search-/-Gray" transform="translate(1186.000000, 599.000000)">
+                <path d="M16.5,16.5 L22.5,22.5" id="Path-2" stroke-width="1.5" stroke-linecap="round"></path>
+                <use id="Oval" mask="url(#mask-2)" stroke-width="3" xlink:href="#path-1"></use>
+            </g>
+        </g>
+    </g>
+</svg>

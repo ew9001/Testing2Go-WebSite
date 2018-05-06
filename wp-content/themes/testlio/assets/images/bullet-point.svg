@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>bullet-point</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="5" cy="15" r="5"></circle>
+    </defs>
+    <g id="Page1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="testlio_customer_story_detail" transform="translate(-225.000000, -2417.000000)">
+            <g id="2" transform="translate(174.000000, 2150.000000)">
+                <g id="point1" transform="translate(56.000000, 262.000000)">
+                    <g id="bullet-point">
+                        <use fill="#0FAFF0" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        <circle stroke-opacity="0.3" stroke="#0FAFF0" stroke-width="4.03361345" cx="5" cy="15" r="7.01680672"></circle>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

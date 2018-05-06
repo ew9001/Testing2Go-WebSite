@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="17px" viewBox="0 0 10 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.1 (44463) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-facebook</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.400000006">
+        <g id="footer" transform="translate(-1041.000000, -115.000000)">
+            <g transform="translate(0.000000, 0.394958)" id="social">
+                <g transform="translate(1037.000000, 85.605042)">
+                    <g id="icons" transform="translate(0.000000, 0.235294)">
+                        <g id="icon-facebook" transform="translate(0.000000, 29.000000)">
+                            <g id="Filled_Icons" transform="translate(4.285714, 0.000000)" fill-rule="nonzero" fill="#FFFFFF">
+                                <path d="M9.12,5.33214286 L6.07142857,5.33214286 L6.07142857,3.97142857 C6.07142857,3.33142857 6.49571429,3.18214286 6.79428571,3.18214286 L8.92857143,3.18214286 L8.92857143,0.366428571 L5.83642857,0.357142857 C3.03142857,0.357142857 2.5,2.45571429 2.5,3.8 L2.5,5.33142857 L0.357142857,5.33142857 L0.357142857,8.18857143 L2.5,8.18857143 L2.5,16.76 L6.07142857,16.76 L6.07142857,8.18857143 L8.82214286,8.18857143 L9.12,5.33214286 Z" id="Shape"></path>
+                            </g>
+                            <g id="Frames-24px">
+                                <rect id="Rectangle-path" x="0" y="0" width="17.1428571" height="17.1428571"></rect>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
